@@ -38,7 +38,7 @@ Hehe~ another cutie has been caught.
 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=nova-faaye">
-[![](https://img.shields.io/github/followers/nova-faaye?label=Followers&style=social)](https://github.com/nova-faaye)
+[![](https://img.shields.io/github/followers/nova-faye?label=Followers&style=social)](https://github.com/nova-faaye)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/novasa)
 <!-- [![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/miyagawamizu) -->
