@@ -8,7 +8,7 @@
 </a>
 
 <h1 align="center">Hi there 👋 I'm Nova 🍙</h1>
-<p align="center"><i>SUPER UNEMPLOYED OHIO FINAL BOSS</i></p>
+<p align="center"><i>anime, manga ,manhwa ladies smasher</i></p>
 
 ---
 
