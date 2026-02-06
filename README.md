@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/bg.webp" alt="Banner" />
+  <img src="./images/bg.jpeg" alt="Banner" />
 </p>
 
 <a href="https://discord.com/invite/PcQqtQFHBX">
