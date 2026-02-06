@@ -13,7 +13,7 @@
 ---
 
 ## ☕ About Me
-<img align="left" width="150" src="./images/marin_kya.webp" />
+<img align="left" width="150" src="./images/rio1.png" />
 
 - **Name:** Nova  
 - **Location:** Saudi Arabia 🇸🇦  
