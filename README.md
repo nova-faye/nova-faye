@@ -40,7 +40,7 @@ People who visit my profile :3
 
 Hehe~ another cutie has been caught ✨
 📫 Contact Me
-<img align="right" width="120" src="./images/marin_smug.webp" />
+<img align="right" width="120" src="./images/rio2.jpg" />
 💬 Fastest response on Discord:
 👉 nova
 
