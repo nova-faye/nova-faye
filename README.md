@@ -35,7 +35,7 @@
 
 ---
 
-```yaml
+
 People who visit my profile :3
 
 Hehe~ another cutie has been caught ✨
@@ -46,4 +46,4 @@ Hehe~ another cutie has been caught ✨
 
 🌐 Links & Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nova-faaye" /> <a href="https://github.com/nova-faye"> <img src="https://img.shields.io/github/followers/nova-faye?label=Followers&style=social" /> </a> <a href="https://discord.gg/"> <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white" /> </a> <a href="https://steamcommunity.com/id/novasa"> <img src="https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white" /> </a> </p>
-<p align="center"> <a href="https://novasa.org"> <img width="220" src="https://novasa.org/src/assets/images/profile/Rio%20Futaba.jpg" /> </a> </p> ```
+<p align="center"> <a href="https://novasa.org"> <img width="220" src="https://novasa.org/src/assets/images/profile/Rio%20Futaba.jpg" /> </a> </p> 
