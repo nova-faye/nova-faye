@@ -53,9 +53,9 @@ languages: [Arabic, English]
 
 ### 💌 Visitors
 
-People who visit my profile :3
+wlc to my profile <3
 <br/>
-Hehe~ another cutie has been caught ✨
+have fun ✨
 
 <img src="https://komarev.com/ghpvc/?username=nova-faaye&style=flat-square&color=7289DA" />
 
@@ -77,7 +77,7 @@ Hehe~ another cutie has been caught ✨
 ### 📫 Contact Me
 
 💬 **Fastest response on Discord:**
-👉 `nova`
+👉 `9.se`
 
 <br/>
 
@@ -86,9 +86,7 @@ Hehe~ another cutie has been caught ✨
   <img src="https://img.shields.io/github/followers/nova-faye?label=Followers&style=for-the-badge&color=7289DA" />
 </a>
 <br/>
-<a href="https://discord.gg/rioco">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
+
 <br/>
 <a href="https://steamcommunity.com/id/novasa">
   <img src="https://img.shields.io/badge/Steam-1a6a98?style=for-the-badge&logo=steam&logoColor=white" />
